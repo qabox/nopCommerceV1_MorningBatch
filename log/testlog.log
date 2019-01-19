@@ -1,0 +1,98 @@
+2019-01-11 14:37:52,161 - eCommerce -INFO - User provided
+2019-01-11 14:37:52,322 - eCommerce -INFO - Password provided
+2019-01-11 14:38:05,089 - eCommerce -INFO - Login in Clicked
+2019-01-11 14:38:12,637 - eCommerce -INFO - Login Passed
+2019-01-11 14:47:26,919 - eCommerce -INFO - User provided
+2019-01-11 14:47:27,034 - eCommerce -INFO - Password provided
+2019-01-11 14:47:30,285 - eCommerce -INFO - Login in Clicked
+2019-01-11 14:47:36,751 - eCommerce -INFO - Login Passed
+2019-01-11 14:48:18,045 - eCommerce -INFO - User provided
+2019-01-11 14:48:18,137 - eCommerce -INFO - Password provided
+2019-01-11 14:48:20,413 - eCommerce -INFO - Login in Clicked
+2019-01-11 14:48:26,724 - eCommerce -INFO - Login Passed
+2019-01-15 18:23:54,980 - eCommerce -INFO - User provided
+2019-01-15 18:23:55,140 - eCommerce -INFO - Password provided
+2019-01-15 18:23:59,756 - eCommerce -INFO - Login in Clicked
+2019-01-15 18:24:02,989 - eCommerce -INFO - Login Passed
+2019-01-15 18:24:08,832 - eCommerce -INFO - User provided
+2019-01-15 18:24:08,948 - eCommerce -INFO - Password provided
+2019-01-15 18:24:11,198 - eCommerce -INFO - Login in Clicked
+2019-01-15 18:24:15,619 - eCommerce -INFO - User provided
+2019-01-15 18:24:15,704 - eCommerce -INFO - Password provided
+2019-01-15 18:24:16,543 - eCommerce -INFO - Login in Clicked
+2019-01-15 18:24:18,556 - eCommerce -INFO - Login Failed
+2019-01-15 18:24:19,554 - eCommerce -INFO - User provided
+2019-01-15 18:24:19,662 - eCommerce -INFO - Password provided
+2019-01-15 18:24:20,039 - eCommerce -INFO - Login in Clicked
+2019-01-15 18:24:22,051 - eCommerce -INFO - Login Failed
+2019-01-15 18:24:23,149 - eCommerce -INFO - User provided
+2019-01-15 18:24:23,210 - eCommerce -INFO - Password provided
+2019-01-15 18:24:23,531 - eCommerce -INFO - Login in Clicked
+2019-01-15 18:24:25,545 - eCommerce -INFO - Login Failed
+2019-01-15 22:43:16,029 - eCommerce -INFO - User provided
+2019-01-15 22:43:16,128 - eCommerce -INFO - Password provided
+2019-01-15 22:43:19,186 - eCommerce -INFO - Login in Clicked
+2019-01-15 22:43:22,765 - eCommerce -INFO - Login Passed
+2019-01-15 22:43:29,030 - eCommerce -INFO - User provided
+2019-01-15 22:43:29,130 - eCommerce -INFO - Password provided
+2019-01-15 22:43:32,491 - eCommerce -INFO - Login in Clicked
+2019-01-15 22:43:36,850 - eCommerce -INFO - User provided
+2019-01-15 22:43:36,938 - eCommerce -INFO - Password provided
+2019-01-15 22:43:37,389 - eCommerce -INFO - Login in Clicked
+2019-01-15 22:43:39,395 - eCommerce -INFO - Login Failed
+2019-01-15 22:43:40,454 - eCommerce -INFO - User provided
+2019-01-15 22:43:40,551 - eCommerce -INFO - Password provided
+2019-01-15 22:43:41,038 - eCommerce -INFO - Login in Clicked
+2019-01-15 22:43:43,047 - eCommerce -INFO - Login Failed
+2019-01-15 22:43:44,019 - eCommerce -INFO - User provided
+2019-01-15 22:43:44,104 - eCommerce -INFO - Password provided
+2019-01-15 22:43:44,548 - eCommerce -INFO - Login in Clicked
+2019-01-15 22:43:46,563 - eCommerce -INFO - Login Failed
+2019-01-15 22:49:58,879 - eCommerce -INFO - User name is provided
+2019-01-15 22:49:58,995 - eCommerce -INFO - password is provided
+2019-01-15 22:50:01,871 - eCommerce -INFO - providing customer details....
+2019-01-15 22:50:15,669 - eCommerce -INFO - validation started....
+2019-01-15 22:50:15,935 - eCommerce -INFO - test case passed....
+2019-01-16 22:15:35,434 - eCommerce -INFO - User provided
+2019-01-16 22:15:35,536 - eCommerce -INFO - Password provided
+2019-01-16 22:15:39,672 - eCommerce -INFO - Login in Clicked
+2019-01-16 22:15:43,046 - eCommerce -INFO - Login Passed
+2019-01-16 22:15:50,593 - eCommerce -INFO - User name is provided
+2019-01-16 22:15:50,671 - eCommerce -INFO - password is provided
+2019-01-16 22:15:53,306 - eCommerce -INFO - providing customer details....
+2019-01-16 22:16:08,789 - eCommerce -INFO - validation started....
+2019-01-16 22:16:09,055 - eCommerce -INFO - test case passed....
+2019-01-16 22:21:57,064 - eCommerce -INFO - User provided
+2019-01-16 22:21:57,159 - eCommerce -INFO - Password provided
+2019-01-16 22:22:00,248 - eCommerce -INFO - Login in Clicked
+2019-01-16 22:22:03,732 - eCommerce -INFO - Login Passed
+2019-01-16 22:22:09,559 - eCommerce -INFO - User name is provided
+2019-01-16 22:22:09,629 - eCommerce -INFO - password is provided
+2019-01-16 22:22:10,074 - eCommerce -INFO - providing customer details....
+2019-01-16 22:43:40,125 - eCommerce -INFO - User provided
+2019-01-16 22:43:40,200 - eCommerce -INFO - Password provided
+2019-01-16 22:43:42,865 - eCommerce -INFO - Login in Clicked
+2019-01-16 22:43:46,532 - eCommerce -INFO - Login Passed
+2019-01-16 22:43:53,039 - eCommerce -INFO - User name is provided
+2019-01-16 22:43:53,107 - eCommerce -INFO - password is provided
+2019-01-16 22:43:55,984 - eCommerce -INFO - providing customer details....
+2019-01-16 22:44:06,495 - eCommerce -INFO - validation started....
+2019-01-16 22:44:06,713 - eCommerce -INFO - test case passed....
+2019-01-17 23:04:00,816 - eCommerce -INFO - User provided
+2019-01-17 23:04:00,981 - eCommerce -INFO - Password provided
+2019-01-17 23:04:04,329 - eCommerce -INFO - Login in Clicked
+2019-01-17 23:04:07,462 - eCommerce -INFO - Login Passed
+2019-01-17 23:04:13,148 - eCommerce -INFO - User name is provided
+2019-01-17 23:04:13,227 - eCommerce -INFO - password is provided
+2019-01-17 23:04:15,605 - eCommerce -INFO - providing customer details....
+2019-01-17 23:04:26,803 - eCommerce -INFO - validation started....
+2019-01-17 23:04:27,011 - eCommerce -INFO - test case passed....
+2019-01-18 18:12:12,861 - eCommerce -INFO - User provided
+2019-01-18 18:12:13,136 - eCommerce -INFO - Password provided
+2019-01-18 18:12:16,032 - eCommerce -INFO - Login in Clicked
+2019-01-18 18:12:30,939 - eCommerce -INFO - Login Passed
+2019-01-18 18:12:35,555 - eCommerce -INFO - User name is provided
+2019-01-18 18:12:35,633 - eCommerce -INFO - password is provided
+2019-01-18 18:12:38,175 - eCommerce -INFO - providing customer details....
+2019-01-18 18:12:56,602 - eCommerce -INFO - validation started....
+2019-01-18 18:12:56,796 - eCommerce -INFO - test case passed....
